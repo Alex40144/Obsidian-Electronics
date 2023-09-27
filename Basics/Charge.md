@@ -1,0 +1,1 @@
+Electric charge is the physical property of matter that causes it to experience a force when placed in an [[electromagnetic field]] 

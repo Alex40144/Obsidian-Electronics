@@ -1,0 +1,1 @@
+Resistance is the measure of the opposition to the current flow in a circuit

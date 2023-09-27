@@ -1,0 +1,4 @@
+Ohmic,
+
+series
+parallel
